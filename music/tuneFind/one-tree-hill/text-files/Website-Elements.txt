@@ -1,0 +1,9 @@
+-> div for sections of songs - <div class="SongRow_container__TbgMq">
+
+--> div for song title and artist block - <div class="SongRow_center__fN_3J">
+
+---> h4 for song title - <h4 class="SongTitle_heading__8iMWm">
+----> a for song title - <a class="SongTitle_link__qlRUV">
+
+---> div for song artist - <div class="SongEventRow_subtitle__Zal_J">
+----> a for song artist - <a class="ArtistSubtitle_subtitle__LaFIf">
